@@ -7,4 +7,6 @@ npm i
 ```
 
 ## Run
+```
 npm run cypress:open
+```

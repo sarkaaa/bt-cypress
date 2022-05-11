@@ -1,0 +1,46 @@
+[
+  {
+    "title": "React JS",
+    "link": "https://reactjs.org/"
+  },
+  {
+    "title": "Gatsby JS",
+    "link": "https://gatsbyjs.com/"
+  },
+  {
+    "title": "styled-components",
+    "link": "https://styled-components.com/"
+  },
+  {
+    "title": "react-mapycz",
+    "link": "https://github.com/flsy/react-mapycz"
+  },
+  {
+    "title": "Mapy.cz",
+    "link": "https://api.mapy.cz/"
+  },
+  {
+    "title": "Jest",
+    "link": "https://jestjs.io/"
+  },
+  {
+    "title": "Cypress",
+    "link": "https://www.cypress.io/"
+  },
+  {
+    "title": "Strapi",
+    "link": "https://strapi.io/"
+  },
+  {
+    "title": "Heroku",
+    "link": "https://www.heroku.com/"
+  },
+  {
+    "title": "Githubu",
+    "link": "https://github.com/sarkaaa/beskydske-tury"
+  },
+  {
+    "title": "tomto odkaze",
+    "link": "https://pandacode.cz/beskydske-tury"
+  }
+]

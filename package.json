@@ -3,6 +3,10 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^9.6.0"
+    "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "cypress-plugin-steps": "^1.1.1",
+    "typescript": "^5.3.3"
   }
 }

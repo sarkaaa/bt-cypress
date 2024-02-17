@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Hlavní stránka",
+        "link": "/"
+    },
+    {
+        "title": "Trasy",
+        "link": "/trasy"
+    },
+    {
+        "title": "O webu",
+        "link": "/o-webu"
+    }
+]

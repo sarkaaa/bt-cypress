@@ -4,5 +4,6 @@
     "lib": ["es5", "dom"],
     "types": ["cypress", "node"]
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts", "support/e2e.js"],
+  "types": ["cypress-plugin-steps"]
 }
